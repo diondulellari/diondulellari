@@ -28,7 +28,7 @@
 ### Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind$20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 <br>
